@@ -1,9 +1,9 @@
-package package2
+package myAPI
 
 import (
 	"encoding/json"
 	"net/http"
-	"handleSQL/package1"
+	"SQL/handleSQL"
 
 	_ "github.com/go-sql-driver/mysql"
 )
@@ -11,8 +11,12 @@ import (
 func HandleAPI(w http.ResponseWriter, r *http.Request) {
 	query := r.URL.Query()
 	param := query.Get("pokemonID")
-	pokemon := package1.SelectPokemon(param)
+	pokemon := handleSQL.SelectPokemon(param)
 	w.Header().Set("Content-Type", "application/json")
 	w.Header().Set("Access-Control-Allow-Origin", "http://localhost:5173")
-	json.NewEncoder(w).Encode(pokemon)
+	
+	err := json.NewEncoder(w).Encode(pokemon)
+	if err != nil {
+		return
+	}
 }

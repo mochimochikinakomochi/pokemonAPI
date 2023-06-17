@@ -1,4 +1,4 @@
-package package1
+package handleSQL
 
 import (
 	"database/sql"
