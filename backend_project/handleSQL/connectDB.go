@@ -1,9 +1,8 @@
 package handleSQL
 
 import (
-	"database/sql"
 	"log"
-
+	"database/sql"
 	_ "github.com/go-sql-driver/mysql"
 )
 
