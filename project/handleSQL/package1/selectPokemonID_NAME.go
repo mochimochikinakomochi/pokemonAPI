@@ -1,4 +1,4 @@
-package handleSQL
+package package1
 
 import (
 	_ "github.com/go-sql-driver/mysql"

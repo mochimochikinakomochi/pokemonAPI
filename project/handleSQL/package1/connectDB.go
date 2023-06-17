@@ -1,10 +1,10 @@
-package handleSQL
+package package1
 
 import (
 	"database/sql"
 	"log"
 
-	"github.com/go-sql-driver/mysql"
+	_ "github.com/go-sql-driver/mysql"
 )
 
 func ConnectDB() *sql.DB {
