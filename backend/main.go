@@ -1,7 +1,7 @@
 package main
 
 import (
-	"SQL/backend/pokemonAPI"
+	"SQL/pokemonAPI"
 	"fmt"
 	"log"
 	"net/http"

@@ -2,7 +2,7 @@ package pokemonAPI
 
 import (
 	// vscodeが勝手にやってくれた
-	"SQL/backend/handleSQL"
+	"SQL/handleSQL"
 	"encoding/json"
 	"net/http"
 
