@@ -11,7 +11,7 @@ type Pokemon struct {
 	Stats string `json:"Stats"`
 }
 
-func SelectPokemon(pokemonID string) Pokemon{
+func SelectPokemon(pokemonID string) Pokemon {
 	db := ConnectDB()
 
 	query := `

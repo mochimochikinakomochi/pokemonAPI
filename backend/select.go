@@ -8,8 +8,7 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 )
 
-
-func mai() {
+func Mai() {
 	dbHost := "localhost"
 	dbPort := 3306
 	dbUser := "root"
@@ -37,7 +36,6 @@ func mai() {
 	}
 	defer rows.Close()
 
-
 	for rows.Next() {
 		var pokemons_id int
 		var pokemons_name string
@@ -56,5 +54,3 @@ func mai() {
 	}
 
 }
-
-

@@ -1,18 +1,23 @@
 package pokemonAPI
 
 import (
+	// vscodeが勝手にやってくれた
+	"SQL/handleSQL"
 	"encoding/json"
 	"net/http"
-	"backend/handleSQL"
 
 	_ "github.com/go-sql-driver/mysql"
 )
 
-func handleAPI(w http.ResponseWriter, r *http.Request) {
+func HandleAPI(w http.ResponseWriter, r *http.Request) {
 	query := r.URL.Query()
 	param := query.Get("pokemonID")
 	pokemon := handleSQL.SelectPokemon(param)
 	w.Header().Set("Content-Type", "application/json")
 	w.Header().Set("Access-Control-Allow-Origin", "http://localhost:5173")
-	json.NewEncoder(w).Encode(pokemon)
+	err := json.NewEncoder(w).Encode(pokemon)
+	// エラーハンドリング
+	if err != nil {
+		return
+	}
 }
