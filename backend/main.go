@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"backend/pokemonAPI"
+	"SQL/pokemonAPI"
 )
 
 func main() {
-	http.HandleFunc("/", pokemonAPI.handleAPI)
+	http.HandleFunc("/", pokemonAPI.HandleAPI)
 	fmt.Println("Starting server at port 8080")
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }

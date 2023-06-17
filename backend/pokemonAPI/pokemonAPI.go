@@ -3,12 +3,12 @@ package pokemonAPI
 import (
 	"encoding/json"
 	"net/http"
-	"backend/handleSQL"
+	"SQL/handleSQL"
 
 	_ "github.com/go-sql-driver/mysql"
 )
 
-func handleAPI(w http.ResponseWriter, r *http.Request) {
+func HandleAPI(w http.ResponseWriter, r *http.Request) {
 	query := r.URL.Query()
 	param := query.Get("pokemonID")
 	pokemon := handleSQL.SelectPokemon(param)
