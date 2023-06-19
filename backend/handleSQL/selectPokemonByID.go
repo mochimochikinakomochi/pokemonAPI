@@ -1,6 +1,7 @@
 package handleSQL
 
 import (
+	"fmt"
 	_ "github.com/go-sql-driver/mysql"
 )
 
@@ -11,8 +12,10 @@ type Pokemon struct {
 	Stats string `json:"Stats"`
 }
 
-func SelectPokemon(pokemonID string) Pokemon {
+func SelectPokemonByID(pokemonID string) []Pokemon {
+	fmt.Printf("pokemonID:%s\n", pokemonID)
 	db := ConnectDB()
+	defer db.Close()
 
 	query := `
 	select pokemons.id, pokemons.name, group_concat(type_master.type_name order by type_master.id) as types, CONCAT(stats.H, ',', stats.A, ',', stats.B, ',', stats.C, ',', stats.D, ',', stats.S) as stats
@@ -23,14 +26,14 @@ func SelectPokemon(pokemonID string) Pokemon {
 		where pokemons.id = ?
 		group by pokemons.id, pokemons.name
 		order by pokemons.id`
-
+	
 	rows, err := db.Query(query, &pokemonID)
 	if err != nil {
 		panic(err)
 	}
 	defer rows.Close()
 
-	var pokemon Pokemon
+	var pokemons []Pokemon
 	for rows.Next() {
 		var pokemon_id int
 		var pokemon_name string
@@ -41,13 +44,13 @@ func SelectPokemon(pokemonID string) Pokemon {
 		if err != nil {
 			panic(err)
 		}
-		pokemon = Pokemon{
+		pokemons = append(pokemons, Pokemon{
 			ID:    pokemon_id,
 			Name:  pokemon_name,
 			Type:  pokemon_type,
 			Stats: pokemon_stats,
-		}
+		})
 	}
 
-	return pokemon
+	return pokemons
 }

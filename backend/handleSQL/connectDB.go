@@ -3,23 +3,22 @@ package handleSQL
 import (
 	"database/sql"
 	"log"
+	"fmt"
 
 	_ "github.com/go-sql-driver/mysql"
 )
 
 func ConnectDB() *sql.DB {
-	c := mysql.Config{
-		DBName: "mysql-db",
-		User: "root",
-		Passwd: "root",
-		Addr: "localhost:3306",
-	}
+	dbHost := "localhost"
+	dbPort := 3306
+	dbUser := "root"
+	dbPassword := "root"
+	dbName := "mysql-pokemonDB"
 
-	db, err := sql.Open("mysql", c.FormatDSN())
+	db, err := sql.Open("mysql", fmt.Sprintf("%s:%s@tcp(%s:%d)/%s", dbUser, dbPassword, dbHost, dbPort, dbName))
 	if err != nil {
 		log.Fatalf("Failed to connect to MySQL database: %s", err.Error())
 	}
-	defer db.Close()
 
 	return db
 }

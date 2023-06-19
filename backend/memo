@@ -1,0 +1,4 @@
+・pokemonデータを返すAPI
+    返すデータの構造体は同じで条件を変えるだけ
+    pokemon(ID, Name, Type, Stats)
+    クエリの優先順位ID > Type
