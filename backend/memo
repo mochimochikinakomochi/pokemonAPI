@@ -2,3 +2,9 @@
     返すデータの構造体は同じで条件を変えるだけ
     pokemon(ID, Name, Type, Stats)
     クエリの優先順位ID > Type
+
+join move_pp on move_pp.moveID = move_name.moveID
+
+urlで最後に/をつけるのを忘れるな
+
+goでjsonファイルを読み込むとき、構造体の名前とjsonの名前は同じに

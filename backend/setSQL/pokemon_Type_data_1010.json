@@ -1,0 +1,6575 @@
+[
+    {
+      "ID": 1,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 2,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 3,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 4,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 5,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 6,
+      "Types": [
+        "fire",
+        "flying"
+      ]
+    },
+    {
+      "ID": 7,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 8,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 9,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 10,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 11,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 12,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 13,
+      "Types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "ID": 14,
+      "Types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "ID": 15,
+      "Types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "ID": 16,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 17,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 18,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 19,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 20,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 21,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 22,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 23,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 24,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 25,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 26,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 27,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 28,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 29,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 30,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 31,
+      "Types": [
+        "poison",
+        "ground"
+      ]
+    },
+    {
+      "ID": 32,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 33,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 34,
+      "Types": [
+        "poison",
+        "ground"
+      ]
+    },
+    {
+      "ID": 35,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 36,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 37,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 38,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 39,
+      "Types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 40,
+      "Types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 41,
+      "Types": [
+        "poison",
+        "flying"
+      ]
+    },
+    {
+      "ID": 42,
+      "Types": [
+        "poison",
+        "flying"
+      ]
+    },
+    {
+      "ID": 43,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 44,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 45,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 46,
+      "Types": [
+        "bug",
+        "grass"
+      ]
+    },
+    {
+      "ID": 47,
+      "Types": [
+        "bug",
+        "grass"
+      ]
+    },
+    {
+      "ID": 48,
+      "Types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "ID": 49,
+      "Types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "ID": 50,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 51,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 52,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 53,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 54,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 55,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 56,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 57,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 58,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 59,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 60,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 61,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 62,
+      "Types": [
+        "water",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 63,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 64,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 65,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 66,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 67,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 68,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 69,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 70,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 71,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 72,
+      "Types": [
+        "water",
+        "poison"
+      ]
+    },
+    {
+      "ID": 73,
+      "Types": [
+        "water",
+        "poison"
+      ]
+    },
+    {
+      "ID": 74,
+      "Types": [
+        "rock",
+        "ground"
+      ]
+    },
+    {
+      "ID": 75,
+      "Types": [
+        "rock",
+        "ground"
+      ]
+    },
+    {
+      "ID": 76,
+      "Types": [
+        "rock",
+        "ground"
+      ]
+    },
+    {
+      "ID": 77,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 78,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 79,
+      "Types": [
+        "water",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 80,
+      "Types": [
+        "water",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 81,
+      "Types": [
+        "electric",
+        "steel"
+      ]
+    },
+    {
+      "ID": 82,
+      "Types": [
+        "electric",
+        "steel"
+      ]
+    },
+    {
+      "ID": 83,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 84,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 85,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 86,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 87,
+      "Types": [
+        "water",
+        "ice"
+      ]
+    },
+    {
+      "ID": 88,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 89,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 90,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 91,
+      "Types": [
+        "water",
+        "ice"
+      ]
+    },
+    {
+      "ID": 92,
+      "Types": [
+        "ghost",
+        "poison"
+      ]
+    },
+    {
+      "ID": 93,
+      "Types": [
+        "ghost",
+        "poison"
+      ]
+    },
+    {
+      "ID": 94,
+      "Types": [
+        "ghost",
+        "poison"
+      ]
+    },
+    {
+      "ID": 95,
+      "Types": [
+        "rock",
+        "ground"
+      ]
+    },
+    {
+      "ID": 96,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 97,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 98,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 99,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 100,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 101,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 102,
+      "Types": [
+        "grass",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 103,
+      "Types": [
+        "grass",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 104,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 105,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 106,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 107,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 108,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 109,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 110,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 111,
+      "Types": [
+        "ground",
+        "rock"
+      ]
+    },
+    {
+      "ID": 112,
+      "Types": [
+        "ground",
+        "rock"
+      ]
+    },
+    {
+      "ID": 113,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 114,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 115,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 116,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 117,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 118,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 119,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 120,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 121,
+      "Types": [
+        "water",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 122,
+      "Types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 123,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 124,
+      "Types": [
+        "ice",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 125,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 126,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 127,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 128,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 129,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 130,
+      "Types": [
+        "water",
+        "flying"
+      ]
+    },
+    {
+      "ID": 131,
+      "Types": [
+        "water",
+        "ice"
+      ]
+    },
+    {
+      "ID": 132,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 133,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 134,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 135,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 136,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 137,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 138,
+      "Types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "ID": 139,
+      "Types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "ID": 140,
+      "Types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "ID": 141,
+      "Types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "ID": 142,
+      "Types": [
+        "rock",
+        "flying"
+      ]
+    },
+    {
+      "ID": 143,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 144,
+      "Types": [
+        "ice",
+        "flying"
+      ]
+    },
+    {
+      "ID": 145,
+      "Types": [
+        "electric",
+        "flying"
+      ]
+    },
+    {
+      "ID": 146,
+      "Types": [
+        "fire",
+        "flying"
+      ]
+    },
+    {
+      "ID": 147,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 148,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 149,
+      "Types": [
+        "dragon",
+        "flying"
+      ]
+    },
+    {
+      "ID": 150,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 151,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 152,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 153,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 154,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 155,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 156,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 157,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 158,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 159,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 160,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 161,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 162,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 163,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 164,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 165,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 166,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 167,
+      "Types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "ID": 168,
+      "Types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "ID": 169,
+      "Types": [
+        "poison",
+        "flying"
+      ]
+    },
+    {
+      "ID": 170,
+      "Types": [
+        "water",
+        "electric"
+      ]
+    },
+    {
+      "ID": 171,
+      "Types": [
+        "water",
+        "electric"
+      ]
+    },
+    {
+      "ID": 172,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 173,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 174,
+      "Types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 175,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 176,
+      "Types": [
+        "fairy",
+        "flying"
+      ]
+    },
+    {
+      "ID": 177,
+      "Types": [
+        "psychic",
+        "flying"
+      ]
+    },
+    {
+      "ID": 178,
+      "Types": [
+        "psychic",
+        "flying"
+      ]
+    },
+    {
+      "ID": 179,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 180,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 181,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 182,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 183,
+      "Types": [
+        "water",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 184,
+      "Types": [
+        "water",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 185,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 186,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 187,
+      "Types": [
+        "grass",
+        "flying"
+      ]
+    },
+    {
+      "ID": 188,
+      "Types": [
+        "grass",
+        "flying"
+      ]
+    },
+    {
+      "ID": 189,
+      "Types": [
+        "grass",
+        "flying"
+      ]
+    },
+    {
+      "ID": 190,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 191,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 192,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 193,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 194,
+      "Types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "ID": 195,
+      "Types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "ID": 196,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 197,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 198,
+      "Types": [
+        "dark",
+        "flying"
+      ]
+    },
+    {
+      "ID": 199,
+      "Types": [
+        "water",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 200,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 201,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 202,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 203,
+      "Types": [
+        "normal",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 204,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 205,
+      "Types": [
+        "bug",
+        "steel"
+      ]
+    },
+    {
+      "ID": 206,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 207,
+      "Types": [
+        "ground",
+        "flying"
+      ]
+    },
+    {
+      "ID": 208,
+      "Types": [
+        "steel",
+        "ground"
+      ]
+    },
+    {
+      "ID": 209,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 210,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 211,
+      "Types": [
+        "water",
+        "poison"
+      ]
+    },
+    {
+      "ID": 212,
+      "Types": [
+        "bug",
+        "steel"
+      ]
+    },
+    {
+      "ID": 213,
+      "Types": [
+        "bug",
+        "rock"
+      ]
+    },
+    {
+      "ID": 214,
+      "Types": [
+        "bug",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 215,
+      "Types": [
+        "dark",
+        "ice"
+      ]
+    },
+    {
+      "ID": 216,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 217,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 218,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 219,
+      "Types": [
+        "fire",
+        "rock"
+      ]
+    },
+    {
+      "ID": 220,
+      "Types": [
+        "ice",
+        "ground"
+      ]
+    },
+    {
+      "ID": 221,
+      "Types": [
+        "ice",
+        "ground"
+      ]
+    },
+    {
+      "ID": 222,
+      "Types": [
+        "water",
+        "rock"
+      ]
+    },
+    {
+      "ID": 223,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 224,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 225,
+      "Types": [
+        "ice",
+        "flying"
+      ]
+    },
+    {
+      "ID": 226,
+      "Types": [
+        "water",
+        "flying"
+      ]
+    },
+    {
+      "ID": 227,
+      "Types": [
+        "steel",
+        "flying"
+      ]
+    },
+    {
+      "ID": 228,
+      "Types": [
+        "dark",
+        "fire"
+      ]
+    },
+    {
+      "ID": 229,
+      "Types": [
+        "dark",
+        "fire"
+      ]
+    },
+    {
+      "ID": 230,
+      "Types": [
+        "water",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 231,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 232,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 233,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 234,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 235,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 236,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 237,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 238,
+      "Types": [
+        "ice",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 239,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 240,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 241,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 242,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 243,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 244,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 245,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 246,
+      "Types": [
+        "rock",
+        "ground"
+      ]
+    },
+    {
+      "ID": 247,
+      "Types": [
+        "rock",
+        "ground"
+      ]
+    },
+    {
+      "ID": 248,
+      "Types": [
+        "rock",
+        "dark"
+      ]
+    },
+    {
+      "ID": 249,
+      "Types": [
+        "psychic",
+        "flying"
+      ]
+    },
+    {
+      "ID": 250,
+      "Types": [
+        "fire",
+        "flying"
+      ]
+    },
+    {
+      "ID": 251,
+      "Types": [
+        "psychic",
+        "grass"
+      ]
+    },
+    {
+      "ID": 252,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 253,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 254,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 255,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 256,
+      "Types": [
+        "fire",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 257,
+      "Types": [
+        "fire",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 258,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 259,
+      "Types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "ID": 260,
+      "Types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "ID": 261,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 262,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 263,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 264,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 265,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 266,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 267,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 268,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 269,
+      "Types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "ID": 270,
+      "Types": [
+        "water",
+        "grass"
+      ]
+    },
+    {
+      "ID": 271,
+      "Types": [
+        "water",
+        "grass"
+      ]
+    },
+    {
+      "ID": 272,
+      "Types": [
+        "water",
+        "grass"
+      ]
+    },
+    {
+      "ID": 273,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 274,
+      "Types": [
+        "grass",
+        "dark"
+      ]
+    },
+    {
+      "ID": 275,
+      "Types": [
+        "grass",
+        "dark"
+      ]
+    },
+    {
+      "ID": 276,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 277,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 278,
+      "Types": [
+        "water",
+        "flying"
+      ]
+    },
+    {
+      "ID": 279,
+      "Types": [
+        "water",
+        "flying"
+      ]
+    },
+    {
+      "ID": 280,
+      "Types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 281,
+      "Types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 282,
+      "Types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 283,
+      "Types": [
+        "bug",
+        "water"
+      ]
+    },
+    {
+      "ID": 284,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 285,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 286,
+      "Types": [
+        "grass",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 287,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 288,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 289,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 290,
+      "Types": [
+        "bug",
+        "ground"
+      ]
+    },
+    {
+      "ID": 291,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 292,
+      "Types": [
+        "bug",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 293,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 294,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 295,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 296,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 297,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 298,
+      "Types": [
+        "normal",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 299,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 300,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 301,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 302,
+      "Types": [
+        "dark",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 303,
+      "Types": [
+        "steel",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 304,
+      "Types": [
+        "steel",
+        "rock"
+      ]
+    },
+    {
+      "ID": 305,
+      "Types": [
+        "steel",
+        "rock"
+      ]
+    },
+    {
+      "ID": 306,
+      "Types": [
+        "steel",
+        "rock"
+      ]
+    },
+    {
+      "ID": 307,
+      "Types": [
+        "fighting",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 308,
+      "Types": [
+        "fighting",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 309,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 310,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 311,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 312,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 313,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 314,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 315,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 316,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 317,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 318,
+      "Types": [
+        "water",
+        "dark"
+      ]
+    },
+    {
+      "ID": 319,
+      "Types": [
+        "water",
+        "dark"
+      ]
+    },
+    {
+      "ID": 320,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 321,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 322,
+      "Types": [
+        "fire",
+        "ground"
+      ]
+    },
+    {
+      "ID": 323,
+      "Types": [
+        "fire",
+        "ground"
+      ]
+    },
+    {
+      "ID": 324,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 325,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 326,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 327,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 328,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 329,
+      "Types": [
+        "ground",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 330,
+      "Types": [
+        "ground",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 331,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 332,
+      "Types": [
+        "grass",
+        "dark"
+      ]
+    },
+    {
+      "ID": 333,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 334,
+      "Types": [
+        "dragon",
+        "flying"
+      ]
+    },
+    {
+      "ID": 335,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 336,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 337,
+      "Types": [
+        "rock",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 338,
+      "Types": [
+        "rock",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 339,
+      "Types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "ID": 340,
+      "Types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "ID": 341,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 342,
+      "Types": [
+        "water",
+        "dark"
+      ]
+    },
+    {
+      "ID": 343,
+      "Types": [
+        "ground",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 344,
+      "Types": [
+        "ground",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 345,
+      "Types": [
+        "rock",
+        "grass"
+      ]
+    },
+    {
+      "ID": 346,
+      "Types": [
+        "rock",
+        "grass"
+      ]
+    },
+    {
+      "ID": 347,
+      "Types": [
+        "rock",
+        "bug"
+      ]
+    },
+    {
+      "ID": 348,
+      "Types": [
+        "rock",
+        "bug"
+      ]
+    },
+    {
+      "ID": 349,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 350,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 351,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 352,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 353,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 354,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 355,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 356,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 357,
+      "Types": [
+        "grass",
+        "flying"
+      ]
+    },
+    {
+      "ID": 358,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 359,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 360,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 361,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 362,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 363,
+      "Types": [
+        "ice",
+        "water"
+      ]
+    },
+    {
+      "ID": 364,
+      "Types": [
+        "ice",
+        "water"
+      ]
+    },
+    {
+      "ID": 365,
+      "Types": [
+        "ice",
+        "water"
+      ]
+    },
+    {
+      "ID": 366,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 367,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 368,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 369,
+      "Types": [
+        "water",
+        "rock"
+      ]
+    },
+    {
+      "ID": 370,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 371,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 372,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 373,
+      "Types": [
+        "dragon",
+        "flying"
+      ]
+    },
+    {
+      "ID": 374,
+      "Types": [
+        "steel",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 375,
+      "Types": [
+        "steel",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 376,
+      "Types": [
+        "steel",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 377,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 378,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 379,
+      "Types": [
+        "steel"
+      ]
+    },
+    {
+      "ID": 380,
+      "Types": [
+        "dragon",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 381,
+      "Types": [
+        "dragon",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 382,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 383,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 384,
+      "Types": [
+        "dragon",
+        "flying"
+      ]
+    },
+    {
+      "ID": 385,
+      "Types": [
+        "steel",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 386,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 387,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 388,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 389,
+      "Types": [
+        "grass",
+        "ground"
+      ]
+    },
+    {
+      "ID": 390,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 391,
+      "Types": [
+        "fire",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 392,
+      "Types": [
+        "fire",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 393,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 394,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 395,
+      "Types": [
+        "water",
+        "steel"
+      ]
+    },
+    {
+      "ID": 396,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 397,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 398,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 399,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 400,
+      "Types": [
+        "normal",
+        "water"
+      ]
+    },
+    {
+      "ID": 401,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 402,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 403,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 404,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 405,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 406,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 407,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 408,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 409,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 410,
+      "Types": [
+        "rock",
+        "steel"
+      ]
+    },
+    {
+      "ID": 411,
+      "Types": [
+        "rock",
+        "steel"
+      ]
+    },
+    {
+      "ID": 412,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 413,
+      "Types": [
+        "bug",
+        "grass"
+      ]
+    },
+    {
+      "ID": 414,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 415,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 416,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 417,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 418,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 419,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 420,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 421,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 422,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 423,
+      "Types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "ID": 424,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 425,
+      "Types": [
+        "ghost",
+        "flying"
+      ]
+    },
+    {
+      "ID": 426,
+      "Types": [
+        "ghost",
+        "flying"
+      ]
+    },
+    {
+      "ID": 427,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 428,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 429,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 430,
+      "Types": [
+        "dark",
+        "flying"
+      ]
+    },
+    {
+      "ID": 431,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 432,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 433,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 434,
+      "Types": [
+        "poison",
+        "dark"
+      ]
+    },
+    {
+      "ID": 435,
+      "Types": [
+        "poison",
+        "dark"
+      ]
+    },
+    {
+      "ID": 436,
+      "Types": [
+        "steel",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 437,
+      "Types": [
+        "steel",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 438,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 439,
+      "Types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 440,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 441,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 442,
+      "Types": [
+        "ghost",
+        "dark"
+      ]
+    },
+    {
+      "ID": 443,
+      "Types": [
+        "dragon",
+        "ground"
+      ]
+    },
+    {
+      "ID": 444,
+      "Types": [
+        "dragon",
+        "ground"
+      ]
+    },
+    {
+      "ID": 445,
+      "Types": [
+        "dragon",
+        "ground"
+      ]
+    },
+    {
+      "ID": 446,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 447,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 448,
+      "Types": [
+        "fighting",
+        "steel"
+      ]
+    },
+    {
+      "ID": 449,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 450,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 451,
+      "Types": [
+        "poison",
+        "bug"
+      ]
+    },
+    {
+      "ID": 452,
+      "Types": [
+        "poison",
+        "dark"
+      ]
+    },
+    {
+      "ID": 453,
+      "Types": [
+        "poison",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 454,
+      "Types": [
+        "poison",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 455,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 456,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 457,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 458,
+      "Types": [
+        "water",
+        "flying"
+      ]
+    },
+    {
+      "ID": 459,
+      "Types": [
+        "grass",
+        "ice"
+      ]
+    },
+    {
+      "ID": 460,
+      "Types": [
+        "grass",
+        "ice"
+      ]
+    },
+    {
+      "ID": 461,
+      "Types": [
+        "dark",
+        "ice"
+      ]
+    },
+    {
+      "ID": 462,
+      "Types": [
+        "electric",
+        "steel"
+      ]
+    },
+    {
+      "ID": 463,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 464,
+      "Types": [
+        "ground",
+        "rock"
+      ]
+    },
+    {
+      "ID": 465,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 466,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 467,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 468,
+      "Types": [
+        "fairy",
+        "flying"
+      ]
+    },
+    {
+      "ID": 469,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 470,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 471,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 472,
+      "Types": [
+        "ground",
+        "flying"
+      ]
+    },
+    {
+      "ID": 473,
+      "Types": [
+        "ice",
+        "ground"
+      ]
+    },
+    {
+      "ID": 474,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 475,
+      "Types": [
+        "psychic",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 476,
+      "Types": [
+        "rock",
+        "steel"
+      ]
+    },
+    {
+      "ID": 477,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 478,
+      "Types": [
+        "ice",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 479,
+      "Types": [
+        "electric",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 480,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 481,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 482,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 483,
+      "Types": [
+        "steel",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 484,
+      "Types": [
+        "water",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 485,
+      "Types": [
+        "fire",
+        "steel"
+      ]
+    },
+    {
+      "ID": 486,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 487,
+      "Types": [
+        "ghost",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 488,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 489,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 490,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 491,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 492,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 493,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 494,
+      "Types": [
+        "psychic",
+        "fire"
+      ]
+    },
+    {
+      "ID": 495,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 496,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 497,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 498,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 499,
+      "Types": [
+        "fire",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 500,
+      "Types": [
+        "fire",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 501,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 502,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 503,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 504,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 505,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 506,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 507,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 508,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 509,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 510,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 511,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 512,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 513,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 514,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 515,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 516,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 517,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 518,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 519,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 520,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 521,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 522,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 523,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 524,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 525,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 526,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 527,
+      "Types": [
+        "psychic",
+        "flying"
+      ]
+    },
+    {
+      "ID": 528,
+      "Types": [
+        "psychic",
+        "flying"
+      ]
+    },
+    {
+      "ID": 529,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 530,
+      "Types": [
+        "ground",
+        "steel"
+      ]
+    },
+    {
+      "ID": 531,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 532,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 533,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 534,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 535,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 536,
+      "Types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "ID": 537,
+      "Types": [
+        "water",
+        "ground"
+      ]
+    },
+    {
+      "ID": 538,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 539,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 540,
+      "Types": [
+        "bug",
+        "grass"
+      ]
+    },
+    {
+      "ID": 541,
+      "Types": [
+        "bug",
+        "grass"
+      ]
+    },
+    {
+      "ID": 542,
+      "Types": [
+        "bug",
+        "grass"
+      ]
+    },
+    {
+      "ID": 543,
+      "Types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "ID": 544,
+      "Types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "ID": 545,
+      "Types": [
+        "bug",
+        "poison"
+      ]
+    },
+    {
+      "ID": 546,
+      "Types": [
+        "grass",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 547,
+      "Types": [
+        "grass",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 548,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 549,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 550,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 551,
+      "Types": [
+        "ground",
+        "dark"
+      ]
+    },
+    {
+      "ID": 552,
+      "Types": [
+        "ground",
+        "dark"
+      ]
+    },
+    {
+      "ID": 553,
+      "Types": [
+        "ground",
+        "dark"
+      ]
+    },
+    {
+      "ID": 554,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 555,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 556,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 557,
+      "Types": [
+        "bug",
+        "rock"
+      ]
+    },
+    {
+      "ID": 558,
+      "Types": [
+        "bug",
+        "rock"
+      ]
+    },
+    {
+      "ID": 559,
+      "Types": [
+        "dark",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 560,
+      "Types": [
+        "dark",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 561,
+      "Types": [
+        "psychic",
+        "flying"
+      ]
+    },
+    {
+      "ID": 562,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 563,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 564,
+      "Types": [
+        "water",
+        "rock"
+      ]
+    },
+    {
+      "ID": 565,
+      "Types": [
+        "water",
+        "rock"
+      ]
+    },
+    {
+      "ID": 566,
+      "Types": [
+        "rock",
+        "flying"
+      ]
+    },
+    {
+      "ID": 567,
+      "Types": [
+        "rock",
+        "flying"
+      ]
+    },
+    {
+      "ID": 568,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 569,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 570,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 571,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 572,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 573,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 574,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 575,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 576,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 577,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 578,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 579,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 580,
+      "Types": [
+        "water",
+        "flying"
+      ]
+    },
+    {
+      "ID": 581,
+      "Types": [
+        "water",
+        "flying"
+      ]
+    },
+    {
+      "ID": 582,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 583,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 584,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 585,
+      "Types": [
+        "normal",
+        "grass"
+      ]
+    },
+    {
+      "ID": 586,
+      "Types": [
+        "normal",
+        "grass"
+      ]
+    },
+    {
+      "ID": 587,
+      "Types": [
+        "electric",
+        "flying"
+      ]
+    },
+    {
+      "ID": 588,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 589,
+      "Types": [
+        "bug",
+        "steel"
+      ]
+    },
+    {
+      "ID": 590,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 591,
+      "Types": [
+        "grass",
+        "poison"
+      ]
+    },
+    {
+      "ID": 592,
+      "Types": [
+        "water",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 593,
+      "Types": [
+        "water",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 594,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 595,
+      "Types": [
+        "bug",
+        "electric"
+      ]
+    },
+    {
+      "ID": 596,
+      "Types": [
+        "bug",
+        "electric"
+      ]
+    },
+    {
+      "ID": 597,
+      "Types": [
+        "grass",
+        "steel"
+      ]
+    },
+    {
+      "ID": 598,
+      "Types": [
+        "grass",
+        "steel"
+      ]
+    },
+    {
+      "ID": 599,
+      "Types": [
+        "steel"
+      ]
+    },
+    {
+      "ID": 600,
+      "Types": [
+        "steel"
+      ]
+    },
+    {
+      "ID": 601,
+      "Types": [
+        "steel"
+      ]
+    },
+    {
+      "ID": 602,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 603,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 604,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 605,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 606,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 607,
+      "Types": [
+        "ghost",
+        "fire"
+      ]
+    },
+    {
+      "ID": 608,
+      "Types": [
+        "ghost",
+        "fire"
+      ]
+    },
+    {
+      "ID": 609,
+      "Types": [
+        "ghost",
+        "fire"
+      ]
+    },
+    {
+      "ID": 610,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 611,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 612,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 613,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 614,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 615,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 616,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 617,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 618,
+      "Types": [
+        "ground",
+        "electric"
+      ]
+    },
+    {
+      "ID": 619,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 620,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 621,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 622,
+      "Types": [
+        "ground",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 623,
+      "Types": [
+        "ground",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 624,
+      "Types": [
+        "dark",
+        "steel"
+      ]
+    },
+    {
+      "ID": 625,
+      "Types": [
+        "dark",
+        "steel"
+      ]
+    },
+    {
+      "ID": 626,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 627,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 628,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 629,
+      "Types": [
+        "dark",
+        "flying"
+      ]
+    },
+    {
+      "ID": 630,
+      "Types": [
+        "dark",
+        "flying"
+      ]
+    },
+    {
+      "ID": 631,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 632,
+      "Types": [
+        "bug",
+        "steel"
+      ]
+    },
+    {
+      "ID": 633,
+      "Types": [
+        "dark",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 634,
+      "Types": [
+        "dark",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 635,
+      "Types": [
+        "dark",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 636,
+      "Types": [
+        "bug",
+        "fire"
+      ]
+    },
+    {
+      "ID": 637,
+      "Types": [
+        "bug",
+        "fire"
+      ]
+    },
+    {
+      "ID": 638,
+      "Types": [
+        "steel",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 639,
+      "Types": [
+        "rock",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 640,
+      "Types": [
+        "grass",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 641,
+      "Types": [
+        "flying"
+      ]
+    },
+    {
+      "ID": 642,
+      "Types": [
+        "electric",
+        "flying"
+      ]
+    },
+    {
+      "ID": 643,
+      "Types": [
+        "dragon",
+        "fire"
+      ]
+    },
+    {
+      "ID": 644,
+      "Types": [
+        "dragon",
+        "electric"
+      ]
+    },
+    {
+      "ID": 645,
+      "Types": [
+        "ground",
+        "flying"
+      ]
+    },
+    {
+      "ID": 646,
+      "Types": [
+        "dragon",
+        "ice"
+      ]
+    },
+    {
+      "ID": 647,
+      "Types": [
+        "water",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 648,
+      "Types": [
+        "normal",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 649,
+      "Types": [
+        "bug",
+        "steel"
+      ]
+    },
+    {
+      "ID": 650,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 651,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 652,
+      "Types": [
+        "grass",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 653,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 654,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 655,
+      "Types": [
+        "fire",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 656,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 657,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 658,
+      "Types": [
+        "water",
+        "dark"
+      ]
+    },
+    {
+      "ID": 659,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 660,
+      "Types": [
+        "normal",
+        "ground"
+      ]
+    },
+    {
+      "ID": 661,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 662,
+      "Types": [
+        "fire",
+        "flying"
+      ]
+    },
+    {
+      "ID": 663,
+      "Types": [
+        "fire",
+        "flying"
+      ]
+    },
+    {
+      "ID": 664,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 665,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 666,
+      "Types": [
+        "bug",
+        "flying"
+      ]
+    },
+    {
+      "ID": 667,
+      "Types": [
+        "fire",
+        "normal"
+      ]
+    },
+    {
+      "ID": 668,
+      "Types": [
+        "fire",
+        "normal"
+      ]
+    },
+    {
+      "ID": 669,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 670,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 671,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 672,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 673,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 674,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 675,
+      "Types": [
+        "fighting",
+        "dark"
+      ]
+    },
+    {
+      "ID": 676,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 677,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 678,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 679,
+      "Types": [
+        "steel",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 680,
+      "Types": [
+        "steel",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 681,
+      "Types": [
+        "steel",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 682,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 683,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 684,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 685,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 686,
+      "Types": [
+        "dark",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 687,
+      "Types": [
+        "dark",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 688,
+      "Types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "ID": 689,
+      "Types": [
+        "rock",
+        "water"
+      ]
+    },
+    {
+      "ID": 690,
+      "Types": [
+        "poison",
+        "water"
+      ]
+    },
+    {
+      "ID": 691,
+      "Types": [
+        "poison",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 692,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 693,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 694,
+      "Types": [
+        "electric",
+        "normal"
+      ]
+    },
+    {
+      "ID": 695,
+      "Types": [
+        "electric",
+        "normal"
+      ]
+    },
+    {
+      "ID": 696,
+      "Types": [
+        "rock",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 697,
+      "Types": [
+        "rock",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 698,
+      "Types": [
+        "rock",
+        "ice"
+      ]
+    },
+    {
+      "ID": 699,
+      "Types": [
+        "rock",
+        "ice"
+      ]
+    },
+    {
+      "ID": 700,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 701,
+      "Types": [
+        "fighting",
+        "flying"
+      ]
+    },
+    {
+      "ID": 702,
+      "Types": [
+        "electric",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 703,
+      "Types": [
+        "rock",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 704,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 705,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 706,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 707,
+      "Types": [
+        "steel",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 708,
+      "Types": [
+        "ghost",
+        "grass"
+      ]
+    },
+    {
+      "ID": 709,
+      "Types": [
+        "ghost",
+        "grass"
+      ]
+    },
+    {
+      "ID": 710,
+      "Types": [
+        "ghost",
+        "grass"
+      ]
+    },
+    {
+      "ID": 711,
+      "Types": [
+        "ghost",
+        "grass"
+      ]
+    },
+    {
+      "ID": 712,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 713,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 714,
+      "Types": [
+        "flying",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 715,
+      "Types": [
+        "flying",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 716,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 717,
+      "Types": [
+        "dark",
+        "flying"
+      ]
+    },
+    {
+      "ID": 718,
+      "Types": [
+        "dragon",
+        "ground"
+      ]
+    },
+    {
+      "ID": 719,
+      "Types": [
+        "rock",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 720,
+      "Types": [
+        "psychic",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 721,
+      "Types": [
+        "fire",
+        "water"
+      ]
+    },
+    {
+      "ID": 722,
+      "Types": [
+        "grass",
+        "flying"
+      ]
+    },
+    {
+      "ID": 723,
+      "Types": [
+        "grass",
+        "flying"
+      ]
+    },
+    {
+      "ID": 724,
+      "Types": [
+        "grass",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 725,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 726,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 727,
+      "Types": [
+        "fire",
+        "dark"
+      ]
+    },
+    {
+      "ID": 728,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 729,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 730,
+      "Types": [
+        "water",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 731,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 732,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 733,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 734,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 735,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 736,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 737,
+      "Types": [
+        "bug",
+        "electric"
+      ]
+    },
+    {
+      "ID": 738,
+      "Types": [
+        "bug",
+        "electric"
+      ]
+    },
+    {
+      "ID": 739,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 740,
+      "Types": [
+        "fighting",
+        "ice"
+      ]
+    },
+    {
+      "ID": 741,
+      "Types": [
+        "fire",
+        "flying"
+      ]
+    },
+    {
+      "ID": 742,
+      "Types": [
+        "bug",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 743,
+      "Types": [
+        "bug",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 744,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 745,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 746,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 747,
+      "Types": [
+        "poison",
+        "water"
+      ]
+    },
+    {
+      "ID": 748,
+      "Types": [
+        "poison",
+        "water"
+      ]
+    },
+    {
+      "ID": 749,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 750,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 751,
+      "Types": [
+        "water",
+        "bug"
+      ]
+    },
+    {
+      "ID": 752,
+      "Types": [
+        "water",
+        "bug"
+      ]
+    },
+    {
+      "ID": 753,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 754,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 755,
+      "Types": [
+        "grass",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 756,
+      "Types": [
+        "grass",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 757,
+      "Types": [
+        "poison",
+        "fire"
+      ]
+    },
+    {
+      "ID": 758,
+      "Types": [
+        "poison",
+        "fire"
+      ]
+    },
+    {
+      "ID": 759,
+      "Types": [
+        "normal",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 760,
+      "Types": [
+        "normal",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 761,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 762,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 763,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 764,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 765,
+      "Types": [
+        "normal",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 766,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 767,
+      "Types": [
+        "bug",
+        "water"
+      ]
+    },
+    {
+      "ID": 768,
+      "Types": [
+        "bug",
+        "water"
+      ]
+    },
+    {
+      "ID": 769,
+      "Types": [
+        "ghost",
+        "ground"
+      ]
+    },
+    {
+      "ID": 770,
+      "Types": [
+        "ghost",
+        "ground"
+      ]
+    },
+    {
+      "ID": 771,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 772,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 773,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 774,
+      "Types": [
+        "rock",
+        "flying"
+      ]
+    },
+    {
+      "ID": 775,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 776,
+      "Types": [
+        "fire",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 777,
+      "Types": [
+        "electric",
+        "steel"
+      ]
+    },
+    {
+      "ID": 778,
+      "Types": [
+        "ghost",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 779,
+      "Types": [
+        "water",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 780,
+      "Types": [
+        "normal",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 781,
+      "Types": [
+        "ghost",
+        "grass"
+      ]
+    },
+    {
+      "ID": 782,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 783,
+      "Types": [
+        "dragon",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 784,
+      "Types": [
+        "dragon",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 785,
+      "Types": [
+        "electric",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 786,
+      "Types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 787,
+      "Types": [
+        "grass",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 788,
+      "Types": [
+        "water",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 789,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 790,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 791,
+      "Types": [
+        "psychic",
+        "steel"
+      ]
+    },
+    {
+      "ID": 792,
+      "Types": [
+        "psychic",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 793,
+      "Types": [
+        "rock",
+        "poison"
+      ]
+    },
+    {
+      "ID": 794,
+      "Types": [
+        "bug",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 795,
+      "Types": [
+        "bug",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 796,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 797,
+      "Types": [
+        "steel",
+        "flying"
+      ]
+    },
+    {
+      "ID": 798,
+      "Types": [
+        "grass",
+        "steel"
+      ]
+    },
+    {
+      "ID": 799,
+      "Types": [
+        "dark",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 800,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 801,
+      "Types": [
+        "steel",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 802,
+      "Types": [
+        "fighting",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 803,
+      "Types": [
+        "poison"
+      ]
+    },
+    {
+      "ID": 804,
+      "Types": [
+        "poison",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 805,
+      "Types": [
+        "rock",
+        "steel"
+      ]
+    },
+    {
+      "ID": 806,
+      "Types": [
+        "fire",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 807,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 808,
+      "Types": [
+        "steel"
+      ]
+    },
+    {
+      "ID": 809,
+      "Types": [
+        "steel"
+      ]
+    },
+    {
+      "ID": 810,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 811,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 812,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 813,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 814,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 815,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 816,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 817,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 818,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 819,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 820,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 821,
+      "Types": [
+        "flying"
+      ]
+    },
+    {
+      "ID": 822,
+      "Types": [
+        "flying"
+      ]
+    },
+    {
+      "ID": 823,
+      "Types": [
+        "flying",
+        "steel"
+      ]
+    },
+    {
+      "ID": 824,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 825,
+      "Types": [
+        "bug",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 826,
+      "Types": [
+        "bug",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 827,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 828,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 829,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 830,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 831,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 832,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 833,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 834,
+      "Types": [
+        "water",
+        "rock"
+      ]
+    },
+    {
+      "ID": 835,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 836,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 837,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 838,
+      "Types": [
+        "rock",
+        "fire"
+      ]
+    },
+    {
+      "ID": 839,
+      "Types": [
+        "rock",
+        "fire"
+      ]
+    },
+    {
+      "ID": 840,
+      "Types": [
+        "grass",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 841,
+      "Types": [
+        "grass",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 842,
+      "Types": [
+        "grass",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 843,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 844,
+      "Types": [
+        "ground"
+      ]
+    },
+    {
+      "ID": 845,
+      "Types": [
+        "flying",
+        "water"
+      ]
+    },
+    {
+      "ID": 846,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 847,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 848,
+      "Types": [
+        "electric",
+        "poison"
+      ]
+    },
+    {
+      "ID": 849,
+      "Types": [
+        "electric",
+        "poison"
+      ]
+    },
+    {
+      "ID": 850,
+      "Types": [
+        "fire",
+        "bug"
+      ]
+    },
+    {
+      "ID": 851,
+      "Types": [
+        "fire",
+        "bug"
+      ]
+    },
+    {
+      "ID": 852,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 853,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 854,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 855,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 856,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 857,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 858,
+      "Types": [
+        "psychic",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 859,
+      "Types": [
+        "dark",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 860,
+      "Types": [
+        "dark",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 861,
+      "Types": [
+        "dark",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 862,
+      "Types": [
+        "dark",
+        "normal"
+      ]
+    },
+    {
+      "ID": 863,
+      "Types": [
+        "steel"
+      ]
+    },
+    {
+      "ID": 864,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 865,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 866,
+      "Types": [
+        "ice",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 867,
+      "Types": [
+        "ground",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 868,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 869,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 870,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 871,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 872,
+      "Types": [
+        "ice",
+        "bug"
+      ]
+    },
+    {
+      "ID": 873,
+      "Types": [
+        "ice",
+        "bug"
+      ]
+    },
+    {
+      "ID": 874,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 875,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 876,
+      "Types": [
+        "psychic",
+        "normal"
+      ]
+    },
+    {
+      "ID": 877,
+      "Types": [
+        "electric",
+        "dark"
+      ]
+    },
+    {
+      "ID": 878,
+      "Types": [
+        "steel"
+      ]
+    },
+    {
+      "ID": 879,
+      "Types": [
+        "steel"
+      ]
+    },
+    {
+      "ID": 880,
+      "Types": [
+        "electric",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 881,
+      "Types": [
+        "electric",
+        "ice"
+      ]
+    },
+    {
+      "ID": 882,
+      "Types": [
+        "water",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 883,
+      "Types": [
+        "water",
+        "ice"
+      ]
+    },
+    {
+      "ID": 884,
+      "Types": [
+        "steel",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 885,
+      "Types": [
+        "dragon",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 886,
+      "Types": [
+        "dragon",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 887,
+      "Types": [
+        "dragon",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 888,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 889,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 890,
+      "Types": [
+        "poison",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 891,
+      "Types": [
+        "fighting"
+      ]
+    },
+    {
+      "ID": 892,
+      "Types": [
+        "fighting",
+        "dark"
+      ]
+    },
+    {
+      "ID": 893,
+      "Types": [
+        "dark",
+        "grass"
+      ]
+    },
+    {
+      "ID": 894,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 895,
+      "Types": [
+        "dragon"
+      ]
+    },
+    {
+      "ID": 896,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 897,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 898,
+      "Types": [
+        "psychic",
+        "grass"
+      ]
+    },
+    {
+      "ID": 899,
+      "Types": [
+        "normal",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 900,
+      "Types": [
+        "bug",
+        "rock"
+      ]
+    },
+    {
+      "ID": 901,
+      "Types": [
+        "ground",
+        "normal"
+      ]
+    },
+    {
+      "ID": 902,
+      "Types": [
+        "water",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 903,
+      "Types": [
+        "fighting",
+        "poison"
+      ]
+    },
+    {
+      "ID": 904,
+      "Types": [
+        "dark",
+        "poison"
+      ]
+    },
+    {
+      "ID": 905,
+      "Types": [
+        "fairy",
+        "flying"
+      ]
+    },
+    {
+      "ID": 906,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 907,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 908,
+      "Types": [
+        "grass",
+        "dark"
+      ]
+    },
+    {
+      "ID": 909,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 910,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 911,
+      "Types": [
+        "fire",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 912,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 913,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 914,
+      "Types": [
+        "water",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 915,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 916,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 917,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 918,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 919,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 920,
+      "Types": [
+        "bug",
+        "dark"
+      ]
+    },
+    {
+      "ID": 921,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 922,
+      "Types": [
+        "electric",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 923,
+      "Types": [
+        "electric",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 924,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 925,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 926,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 927,
+      "Types": [
+        "fairy"
+      ]
+    },
+    {
+      "ID": 928,
+      "Types": [
+        "grass",
+        "normal"
+      ]
+    },
+    {
+      "ID": 929,
+      "Types": [
+        "grass",
+        "normal"
+      ]
+    },
+    {
+      "ID": 930,
+      "Types": [
+        "grass",
+        "normal"
+      ]
+    },
+    {
+      "ID": 931,
+      "Types": [
+        "normal",
+        "flying"
+      ]
+    },
+    {
+      "ID": 932,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 933,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 934,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 935,
+      "Types": [
+        "fire"
+      ]
+    },
+    {
+      "ID": 936,
+      "Types": [
+        "fire",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 937,
+      "Types": [
+        "fire",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 938,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 939,
+      "Types": [
+        "electric"
+      ]
+    },
+    {
+      "ID": 940,
+      "Types": [
+        "electric",
+        "flying"
+      ]
+    },
+    {
+      "ID": 941,
+      "Types": [
+        "electric",
+        "flying"
+      ]
+    },
+    {
+      "ID": 942,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 943,
+      "Types": [
+        "dark"
+      ]
+    },
+    {
+      "ID": 944,
+      "Types": [
+        "poison",
+        "normal"
+      ]
+    },
+    {
+      "ID": 945,
+      "Types": [
+        "poison",
+        "normal"
+      ]
+    },
+    {
+      "ID": 946,
+      "Types": [
+        "grass",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 947,
+      "Types": [
+        "grass",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 948,
+      "Types": [
+        "ground",
+        "grass"
+      ]
+    },
+    {
+      "ID": 949,
+      "Types": [
+        "ground",
+        "grass"
+      ]
+    },
+    {
+      "ID": 950,
+      "Types": [
+        "rock"
+      ]
+    },
+    {
+      "ID": 951,
+      "Types": [
+        "grass"
+      ]
+    },
+    {
+      "ID": 952,
+      "Types": [
+        "grass",
+        "fire"
+      ]
+    },
+    {
+      "ID": 953,
+      "Types": [
+        "bug"
+      ]
+    },
+    {
+      "ID": 954,
+      "Types": [
+        "bug",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 955,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 956,
+      "Types": [
+        "psychic"
+      ]
+    },
+    {
+      "ID": 957,
+      "Types": [
+        "fairy",
+        "steel"
+      ]
+    },
+    {
+      "ID": 958,
+      "Types": [
+        "fairy",
+        "steel"
+      ]
+    },
+    {
+      "ID": 959,
+      "Types": [
+        "fairy",
+        "steel"
+      ]
+    },
+    {
+      "ID": 960,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 961,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 962,
+      "Types": [
+        "flying",
+        "dark"
+      ]
+    },
+    {
+      "ID": 963,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 964,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 965,
+      "Types": [
+        "steel",
+        "poison"
+      ]
+    },
+    {
+      "ID": 966,
+      "Types": [
+        "steel",
+        "poison"
+      ]
+    },
+    {
+      "ID": 967,
+      "Types": [
+        "dragon",
+        "normal"
+      ]
+    },
+    {
+      "ID": 968,
+      "Types": [
+        "steel"
+      ]
+    },
+    {
+      "ID": 969,
+      "Types": [
+        "rock",
+        "poison"
+      ]
+    },
+    {
+      "ID": 970,
+      "Types": [
+        "rock",
+        "poison"
+      ]
+    },
+    {
+      "ID": 971,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 972,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 973,
+      "Types": [
+        "flying",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 974,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 975,
+      "Types": [
+        "ice"
+      ]
+    },
+    {
+      "ID": 976,
+      "Types": [
+        "water",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 977,
+      "Types": [
+        "water"
+      ]
+    },
+    {
+      "ID": 978,
+      "Types": [
+        "dragon",
+        "water"
+      ]
+    },
+    {
+      "ID": 979,
+      "Types": [
+        "fighting",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 980,
+      "Types": [
+        "poison",
+        "ground"
+      ]
+    },
+    {
+      "ID": 981,
+      "Types": [
+        "normal",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 982,
+      "Types": [
+        "normal"
+      ]
+    },
+    {
+      "ID": 983,
+      "Types": [
+        "dark",
+        "steel"
+      ]
+    },
+    {
+      "ID": 984,
+      "Types": [
+        "ground",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 985,
+      "Types": [
+        "fairy",
+        "psychic"
+      ]
+    },
+    {
+      "ID": 986,
+      "Types": [
+        "grass",
+        "dark"
+      ]
+    },
+    {
+      "ID": 987,
+      "Types": [
+        "ghost",
+        "fairy"
+      ]
+    },
+    {
+      "ID": 988,
+      "Types": [
+        "bug",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 989,
+      "Types": [
+        "electric",
+        "ground"
+      ]
+    },
+    {
+      "ID": 990,
+      "Types": [
+        "ground",
+        "steel"
+      ]
+    },
+    {
+      "ID": 991,
+      "Types": [
+        "ice",
+        "water"
+      ]
+    },
+    {
+      "ID": 992,
+      "Types": [
+        "fighting",
+        "electric"
+      ]
+    },
+    {
+      "ID": 993,
+      "Types": [
+        "dark",
+        "flying"
+      ]
+    },
+    {
+      "ID": 994,
+      "Types": [
+        "fire",
+        "poison"
+      ]
+    },
+    {
+      "ID": 995,
+      "Types": [
+        "rock",
+        "electric"
+      ]
+    },
+    {
+      "ID": 996,
+      "Types": [
+        "dragon",
+        "ice"
+      ]
+    },
+    {
+      "ID": 997,
+      "Types": [
+        "dragon",
+        "ice"
+      ]
+    },
+    {
+      "ID": 998,
+      "Types": [
+        "dragon",
+        "ice"
+      ]
+    },
+    {
+      "ID": 999,
+      "Types": [
+        "ghost"
+      ]
+    },
+    {
+      "ID": 1000,
+      "Types": [
+        "steel",
+        "ghost"
+      ]
+    },
+    {
+      "ID": 1001,
+      "Types": [
+        "dark",
+        "grass"
+      ]
+    },
+    {
+      "ID": 1002,
+      "Types": [
+        "dark",
+        "ice"
+      ]
+    },
+    {
+      "ID": 1003,
+      "Types": [
+        "dark",
+        "ground"
+      ]
+    },
+    {
+      "ID": 1004,
+      "Types": [
+        "dark",
+        "fire"
+      ]
+    },
+    {
+      "ID": 1005,
+      "Types": [
+        "dragon",
+        "dark"
+      ]
+    },
+    {
+      "ID": 1006,
+      "Types": [
+        "fairy",
+        "fighting"
+      ]
+    },
+    {
+      "ID": 1007,
+      "Types": [
+        "fighting",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 1008,
+      "Types": [
+        "electric",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 1009,
+      "Types": [
+        "water",
+        "dragon"
+      ]
+    },
+    {
+      "ID": 1010,
+      "Types": [
+        "grass",
+        "psychic"
+      ]
+    }
+  ]

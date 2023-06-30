@@ -1,26 +1,27 @@
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
+import { BrowserRouter, Routes, Route} from 'react-router-dom'
+import { ScrollToTop } from './components/ScrollToTop'
 import { Home } from './pages/Home'
-import { CreateAccountPage } from './pages/CreateAccountPage'
+import { Sidebar } from './components/Sidebar'
+import { LoginPage } from './pages/LoginPage'
+import { PokemonList } from './pages/PokemonList'
 import { PokemonInfo } from './pages/PokemonInfo'
-import { AiFillHome } from 'react-icons/ai'
+import { MoveList } from './pages/MoveList'
+import { MoveInfo } from './pages/MoveInfo'
 
 export const App = () => {
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <div>
-        <div className='bg-normal bg-fire bg-water bg-grass bg-electric bg-ice bg-fighting bg-poison bg-ground bg-flying bg-psychic bg-bug bg-rock bg-ghost bg-dragon bg-dark bg-steel bg-fairy'>
-          <Link to='/' className="">
-            <AiFillHome size={50} color={'#FFF'}/>
-          </Link>
-          <Link to='/setUser' className="">
-            <p>Create User</p>
-            <AiFillHome size={50} color={'#FFF'}/>
-          </Link>
-        </div>
-        <Routes>
+          <div className='bg-fire bg-water bg-grass bg-electric bg-ice bg-fighting bg-poison bg-ground bg-flying bg-psychic bg-bug bg-rock bg-ghost bg-dragon bg-dark bg-steel bg-fairy bg-all bg-normal'></div>
+        <Sidebar />
+        <Routes>  
           <Route path='/' element={<Home />} />
-          <Route path='/setUser' element={<CreateAccountPage />} />
-          <Route path='/pokemonInfo' element={<PokemonInfo/>} />
+          <Route path='/Login' element={<LoginPage />} />
+          <Route path='/pokemonList' element={<PokemonList />} />
+          <Route path='/pokemonInfo/' element={<PokemonInfo />} />
+          <Route path='/moveList' element={<MoveList />} />
+          <Route path='/moveInfo/' element={<MoveInfo />} />
         </Routes>
       </div>
     </BrowserRouter>

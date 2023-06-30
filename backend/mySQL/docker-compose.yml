@@ -9,6 +9,7 @@ services:
       MYSQL_USER: user
       MYSQL_PASSWORD: password
       TZ: Asia/Tokyo
+      LANG: C.UTF-8
     ports:
       - 3306:3306
 

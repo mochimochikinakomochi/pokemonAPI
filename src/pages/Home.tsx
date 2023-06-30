@@ -2,15 +2,17 @@ import { Link } from "react-router-dom";
 
 export const Home = () => {
     return (
-      <>
-        <div>
-          <div className="flex justify-center items-center">
-            <div className="w-72 h-72 rounded-full bg-gradient-to-b custom-gradient flex justify-center items-center shadow-2xl shadow-inner inset-O">
-              <Link to="/PokemonInfo" className="center hover:bg-gray-200" ></Link>
-            </div>
+      <div className="grid grid-cols-2">
+        <Link to='/login'>
+          <div className="grid-item border pl-2 bg-gray-200 hover:bg-gray-300 rounded-[16px] shadow-md h-48 flex items-center justify-center">
+            <div className="text-4xl">さいしょから&nbsp;はじめる</div>
           </div>
-          <div className="shadow mx-auto my-16"></div>
-        </div>
-      </>
+        </Link>
+        <Link to='/login'>
+          <div className="grid-item border pl-2 bg-gray-200 hover:bg-gray-300 rounded-[16px] shadow-md h-48 flex items-center justify-center">
+            <div className="text-4xl">つづきから&nbsp;はじめる</div>
+          </div>
+        </Link>
+      </div>
     );
 }

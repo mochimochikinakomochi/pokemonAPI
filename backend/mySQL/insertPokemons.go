@@ -63,8 +63,28 @@ func insertPokemons() {
 		{ID: 17, Name: "steel"},
 		{ID: 18, Name: "fairy"}}
 
+		typesJa := []_Type {
+			{ID: 1, Name: "ノーマル"},
+			{ID: 2, Name: "ほのお"},
+			{ID: 3, Name: "みず"},
+			{ID: 4, Name: "でんき"},
+			{ID: 5, Name: "くさ"},
+			{ID: 6, Name: "こおり"},
+			{ID: 7, Name: "かくとう"},
+			{ID: 8, Name: "どく"},
+			{ID: 9, Name: "じめん"},
+			{ID: 10, Name: "ひこう"},
+			{ID: 11, Name: "エスパー"},
+			{ID: 12, Name: "むし"},
+			{ID: 13, Name: "いわ"},
+			{ID: 14, Name: "ゴースト"},
+			{ID: 15, Name: "ドラゴン"},
+			{ID: 16, Name: "あく"},
+			{ID: 17, Name: "はがね"},
+			{ID: 18, Name: "フェアリー"}}
+
 	// type_name
-	for _, _type := range types {
+	for _, _type := range typesJa {
 		insertType_name := "INSERT IGNORE INTO type_name (typeID, typeName) VALUES (?, ?)"
 		_, err = db.Exec(insertType_name, _type.ID, _type.Name)
 		if err != nil {
@@ -80,12 +100,12 @@ func insertPokemons() {
 	}
 
 	for _, pokemon := range pokemons {
-		// pokemon_name
+		/* // pokemon_name
 		insertPokemon_name := "INSERT IGNORE INTO pokemon_name (pokemonID, pokemonName) VALUES (?, ?)"
 		_, err = db.Exec(insertPokemon_name, pokemon.ID, pokemon.Name)
 		if err != nil {
 			log.Printf("Failed to insert data for Pokemon %s: %s", pokemon.Name, err.Error())
-		}
+		} */
 
 		// pokemon_type
 		for _, _type := range pokemon.Types {
@@ -96,19 +116,19 @@ func insertPokemons() {
 			}
 		}
 
-		// pokemon_height
+		/* // pokemon_height
 		insertPokemon_height := "INSERT IGNORE INTO pokemon_height (pokemonID, height) VALUES (?, ?)"
 		_, err = db.Exec(insertPokemon_height, pokemon.ID, pokemon.Height)
 		if err != nil {
 			log.Printf("Failed to insert data for Pokemon %s: %s", pokemon.Name, err.Error())
-		}
+		} */
 
-		// pokemon_weight
+		/* // pokemon_weight
 		insertPokemon_weight := "INSERT IGNORE INTO pokemon_weight (pokemonID, weight) VALUES (?, ?)"
 		_, err = db.Exec(insertPokemon_weight, pokemon.ID, pokemon.Weight)
 		if err != nil {
 			log.Printf("Failed to insert data for Pokemon %s: %s", pokemon.Name, err.Error())
-		}
+		} */
 	}
 
 	log.Println("データの挿入が完了しました。")
